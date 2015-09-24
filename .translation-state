@@ -6,6 +6,12 @@
       "SourceFilePath": "articles\\app-service\\app-service-authentication-overview.md",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\app-service-authentication-overview.md",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "8c28ae27d0f091533e688227f09d217ce4753559": {
@@ -13,6 +19,12 @@
       "SourceFilePath": "articles\\app-service\\media\\app-service-authentication-overview\\gateway.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\media\\app-service-authentication-overview\\gateway.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "33eeb848c02059133819647ba8d02abf97290ca6": {
@@ -20,6 +32,12 @@
       "SourceFilePath": "articles\\app-service\\media\\app-service-authentication-overview\\clientflow.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\media\\app-service-authentication-overview\\clientflow.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "d1c22e525594f960305e2d49c0fa1c9aad314cba": {
@@ -27,6 +45,12 @@
       "SourceFilePath": "articles\\app-service\\media\\app-service-authentication-overview\\serverflow.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\media\\app-service-authentication-overview\\serverflow.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "51481b3f76a90273b579a84af088697804481c16": {
@@ -34,6 +58,12 @@
       "SourceFilePath": "articles\\app-service\\media\\app-service-authentication-overview\\idprovidertoken.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\media\\app-service-authentication-overview\\idprovidertoken.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "ff0cef6c6ac221a3e71caf4077b329519e238dbe": {
@@ -41,6 +71,12 @@
       "SourceFilePath": "articles\\app-service\\media\\app-service-authentication-overview\\saastoken.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\media\\app-service-authentication-overview\\saastoken.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "0da05099e304d012e5a49f676efc6b3bb5f59efc": {
@@ -48,6 +84,12 @@
       "SourceFilePath": "articles\\app-service\\app-service-enterprise-multichannel-apps.md",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\app-service-enterprise-multichannel-apps.md",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "cd51b7dd35e74db9b2637b4284966566f76970b4": {
@@ -55,6 +97,12 @@
       "SourceFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\01aAADLogin.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\01aAADLogin.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "4b2d5f30daad087180890978ce33b27edc5d5238": {
@@ -62,6 +110,12 @@
       "SourceFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\02aDatafromOnpremisesSqlServer.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\02aDatafromOnpremisesSqlServer.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "59721ca028bdba55ccc1b491198bbc32b6ffe910": {
@@ -69,6 +123,12 @@
       "SourceFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\03aSharepointListLink.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\03aSharepointListLink.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "419f42de344aada6726b917130e63a1edb775a25": {
@@ -76,6 +136,12 @@
       "SourceFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\04aSharepointList.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\04aSharepointList.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "d57eba4ba48d5e1bb618561274808b298bfeb13f": {
@@ -83,6 +149,12 @@
       "SourceFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\05aSharepointDocumentLibrary.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\05aSharepointDocumentLibrary.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "76cb3dde99838439c7762f6018a86b7c1d1b988b": {
@@ -90,6 +162,12 @@
       "SourceFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\06aSalesforceIntegration.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\06aSalesforceIntegration.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "d1a9d05ccf98ef649634249664d39c199548ee60": {
@@ -97,6 +175,12 @@
       "SourceFilePath": "articles\\app-service\\app-service-release-notes.md",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\app-service-release-notes.md",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "62a3d11eff25f595b8f5319784fd78c112c9233e": {
@@ -104,6 +188,12 @@
       "SourceFilePath": "articles\\app-service\\app-service-scale.md",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\app-service-scale.md",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "82f66fd3d21c300e78db109fb66df0882eb9a2d4": {
@@ -111,6 +201,12 @@
       "SourceFilePath": "articles\\app-service\\media\\app-service-scale\\ChoosePricingTier.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\media\\app-service-scale\\ChoosePricingTier.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "6abb5063d4c9e4c49a50f5ff5463711ec6bd356e": {
@@ -118,6 +214,12 @@
       "SourceFilePath": "articles\\app-service\\media\\app-service-scale\\ResourceGroup.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\media\\app-service-scale\\ResourceGroup.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "f34731c0dac33fc46713849e7a17d2c5cd4705e1": {
@@ -125,6 +227,12 @@
       "SourceFilePath": "articles\\app-service\\media\\app-service-scale\\ScaleDatabase.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\media\\app-service-scale\\ScaleDatabase.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "0c4cb5d783d8c3b31030a2b71562308c664ca4e8": {
@@ -132,6 +240,12 @@
       "SourceFilePath": "articles\\app-service\\media\\app-service-scale\\GeoReplication.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\media\\app-service-scale\\GeoReplication.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "b46938ebccce76a1abcb1745dfbabef863182564": {
@@ -139,6 +253,12 @@
       "SourceFilePath": "articles\\app-service\\app-service-value-prop-what-is.md",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\app-service-value-prop-what-is.md",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "86b056353e259eaeb530967bd7e2ceafd05a34d5": {
@@ -146,6 +266,12 @@
       "SourceFilePath": "articles\\app-service\\azure-web-sites-web-hosting-plans-in-depth-overview.md",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\app-service\\azure-web-sites-web-hosting-plans-in-depth-overview.md",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "3cb00b71002c7df248c1448b6304511d6d6dbe8a": {
@@ -153,6 +279,12 @@
       "SourceFilePath": "articles\\architecture-overview.md",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\architecture-overview.md",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "65b0423b17de50be91eb154a8e746bba41ea28f1": {
@@ -160,6 +292,12 @@
       "SourceFilePath": "articles\\media\\architecture-overview\\BluePrintThumb.jpg",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\architecture-overview\\BluePrintThumb.jpg",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "9a774cae94fc62e8664671afac12d67db278e69f": {
@@ -167,6 +305,12 @@
       "SourceFilePath": "articles\\media\\architecture-overview\\CnESymbols.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\architecture-overview\\CnESymbols.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "60b0bcaec96a11dbe431a01f08e6d00e25676107": {
@@ -174,6 +318,12 @@
       "SourceFilePath": "articles\\media\\architecture-overview\\PnPPatternPosterThumb.jpg",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\architecture-overview\\PnPPatternPosterThumb.jpg",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "336db0d561ee72ef3e158e69e47ce0591c9e4789": {
@@ -181,6 +331,12 @@
       "SourceFilePath": "articles\\media\\architecture-overview\\AzureArchInfographicThumb.jpg",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\architecture-overview\\AzureArchInfographicThumb.jpg",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "0b69f9992a5768c7edff536f649151dece7ad766": {
@@ -188,6 +344,12 @@
       "SourceFilePath": "articles\\azure-billing-set-up-alerts.md",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\azure-billing-set-up-alerts.md",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "37c26d4d5e9de7e66d42ff6d7d78c97ae3bcdf83": {
@@ -195,6 +357,12 @@
       "SourceFilePath": "articles\\media\\azure-billing-set-up-alerts\\billingalert1.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\azure-billing-set-up-alerts\\billingalert1.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "3b6a3902f2d1c0e084f4d09e1d6c377a9b4aec56": {
@@ -202,6 +370,12 @@
       "SourceFilePath": "articles\\media\\azure-billing-set-up-alerts\\billingalert2.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\azure-billing-set-up-alerts\\billingalert2.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "12e040924980bc27d553b8ab96c497d03a5b2c67": {
@@ -209,6 +383,12 @@
       "SourceFilePath": "articles\\media\\azure-billing-set-up-alerts\\billingalerts3.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\azure-billing-set-up-alerts\\billingalerts3.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "7054df413c7958c291ba8136ec882d216f8cbc1b": {
@@ -216,6 +396,12 @@
       "SourceFilePath": "articles\\azure-portal-overview.md",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\azure-portal-overview.md",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "3b962bf2c0910eda18d87c42a195fd9528c463de": {
@@ -223,6 +409,12 @@
       "SourceFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_1.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_1.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "2809ca3f8ae2e73672995e53388b07e3499e6f20": {
@@ -230,6 +422,12 @@
       "SourceFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_2.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_2.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "3d066248d656e8d897a9c6237d909141794ab031": {
@@ -237,6 +435,12 @@
       "SourceFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_3.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_3.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "a2c9886be9efe74af07dbb7c00675f8da0d3c0d8": {
@@ -244,6 +448,12 @@
       "SourceFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_4.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_4.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "1d82be10db5d853d5243dd6fd677eca87db271f9": {
@@ -251,6 +461,12 @@
       "SourceFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_5.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_5.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "e57db804a6a6f3bf37667e07530dbd910e869cc9": {
@@ -258,6 +474,12 @@
       "SourceFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_6.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_6.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "6c505d46321d1563a1cb15f3ba5e37e3f103e8ca": {
@@ -265,6 +487,12 @@
       "SourceFilePath": "articles\\azure-preview-portal-supported-browsers-devices.md",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\azure-preview-portal-supported-browsers-devices.md",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "e3776c18f19a7c15214f2e3cecb0b91aee70b912": {
@@ -272,6 +500,12 @@
       "SourceFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_GetStarted2.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_GetStarted2.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "3760178f0756d28e47193a6beee084c3f29fe989": {
@@ -279,6 +513,12 @@
       "SourceFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_HowItWorks2.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_HowItWorks2.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "771c64b654fdf1a86c4ddba8e82d0f9bc43b0951": {
@@ -286,6 +526,12 @@
       "SourceFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_Manage2.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_Manage2.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "71d6b880385b45c567ef7bd6a6b563292358a977": {
@@ -293,6 +539,12 @@
       "SourceFilePath": "articles\\media\\active-directory-aadconnect\\cloudauth.png",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\media\\active-directory-aadconnect\\cloudauth.png",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     },
     "ccb3dc82a246bd4956fb71b29fc86504980828a6": {
@@ -300,6 +552,12 @@
       "SourceFilePath": "articles\\resource-group-advanced-template.md",
       "TargetFileCommit": "1d9649b93f6d8dde22f416f6a5a1779c726dd2de",
       "TargetFilePath": "articles\\resource-group-advanced-template.md",
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "2015-09-15T05:43:04.232932Z"
     }
   }
